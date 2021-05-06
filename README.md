@@ -23,29 +23,24 @@ The ILogs will have the following functionalities:
 ## Project timing:
 
 Milestone 1
--	
--	Batch split big files to small files
--	MD5 file generation
--	Merge small files to big file.
--	Automatically generate car file
--	Local miners reachable
--	Price list of miners
--	One key generates car file 
--	Batch send deals to multiple miners
--	Generated CSV for sending to miners, CSV for users. 
+- java SDK
+- 支持打印xml，json，模版String等形式。
+- 支持自定义日志文件存储形式（文件前缀、时间片存储等）。
+- 在日志文件的顶部，XLog提供了很多有用的运行环境相关的信息，比如操作系统信息、设备信息和应用信息
+- 支持时区设置。
+- 支持日志文件信息可选择打印。
+- 支持打印线程信息。
+- 支持打印方法的数量。
+- 支持捕捉并打印崩溃日志。
+- 支持自定义崩溃日志处理【默认提供了3种处理方式】
 For the above functionalities, 1 month of development is required.
 
-## Resources:
+Milestone 2
+- 基于java SDK逻辑，在android 上适配
+For the above functionalities, 1 month of development is required.
 
-The project requires the following resources:
-
-| Role                 | DMOB Provided Resources | Allocation     |
-| :---                 |    :----:               |           ---: |
-| Designer             | 1                       | 40%            |
-| Frontend Developer   | 1                       | 60%            |
-| Backend Dev          | 1                       | 100%           |
-| Project Manager      | 1                       | 40%            |
-| DevOps               | 1                       | 20%            |
+Milestone 3
+- 基于java SDK逻辑，在IOS 上适配
 
 ## Budget:
 
@@ -55,20 +50,14 @@ The requested budget is $32000
 
 ## Team Members
 
-- Charles Cao
-- Fei Yan
-- Boqian Wang
+- Michael
+- Parker
+- Zhaoyi Feng
 
 ## Team Member LinkedIn Profiles
 
-- https://www.linkedin.com/in/charles-cao-09a79526/
--  https://www.linkedin.com/in/feiya200/
-
-- https://www.linkedin.com/in/boqian-wang-6b0955171/
 
 ## Team Website
-
-https://swan.nbfspool.com
 
 ## Relevant Experience
 
