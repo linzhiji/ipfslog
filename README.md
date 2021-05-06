@@ -6,7 +6,10 @@
 
 # Project description:
 
-The purpose of the Filecoin Plus Notary dashboard is to make it possible to easily see which Fil+ Notaries approved which Clients, how many Verified Deals each client has, and with how many miners.
+**Problem:** Currently when creating NFTs anyone can find the content on IPFS or web and download your content & distribute freely. There is no current standard to protecting creators' content.
+
+**Solution:** To solve this issue we need to implement a DRM system from cradle to grave.
+ILogs 是基于IPFS的日志系统，
 
 ## Deliverables:
 
