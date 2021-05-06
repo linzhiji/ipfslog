@@ -21,6 +21,18 @@ The ILogs will have the following functionalities:
 * 基于IOS的SDK
 
 ## Project timing:
+
+Milestone 1
+-	
+-	Batch split big files to small files
+-	MD5 file generation
+-	Merge small files to big file.
+-	Automatically generate car file
+-	Local miners reachable
+-	Price list of miners
+-	One key generates car file 
+-	Batch send deals to multiple miners
+-	Generated CSV for sending to miners, CSV for users. 
 For the above functionalities, 1 month of development is required.
 
 ## Resources:
@@ -38,4 +50,25 @@ The project requires the following resources:
 ## Budget:
 
 The requested budget is $32000
+
+# Team
+
+## Team Members
+
+- Charles Cao
+- Fei Yan
+- Boqian Wang
+
+## Team Member LinkedIn Profiles
+
+- https://www.linkedin.com/in/charles-cao-09a79526/
+-  https://www.linkedin.com/in/feiya200/
+
+- https://www.linkedin.com/in/boqian-wang-6b0955171/
+
+## Team Website
+
+https://swan.nbfspool.com
+
+## Relevant Experience
 
